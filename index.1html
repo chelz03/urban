@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BMC - Business Model Canvas</title>
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+  <!-- Icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>URBAN COFFE & BAKERY</h1>
+  <p class="subtitle">Business Model Canvas </p>
+
+  <div class="canvas">
+
+    <div class="card">
+      <i class="fas fa-handshake"></i>
+      <h2>Key Partners</h2>
+      <ul>
+        <li>Supplier biji kopi lokal & impor</li>
+        <li>Supplier bahan bakery (tepung, butter, cokelat, dll)</li>
+        <li>Influencer kuliner & food blogger</li>
+        <li>Platform delivery (GoFood, GrabFood, ShopeeFood)</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <i class="fas fa-tasks"></i>
+      <h2>Key Activities</h2>
+      <ul>
+        <li>Menyeduh kopi (espresso, latte, manual brew)</li>
+        <li>Produksi roti & pastry setiap hari</li>
+        <li>Pelayanan pelanggan di café & online</li>
+        <li>Promosi di media sosial (Instagram, TikTok)</li>
+      </ul>
+    </div>
+
+    <div class="card highlight">
+      <i class="fas fa-lightbulb"></i>
+      <h2>Value Propositions</h2>
+      <ul>
+        <li>Kopi specialty dengan rasa premium</li>
+        <li>Roti & pastry fresh setiap hari</li>
+        <li>Tempat cozy & estetik (instagramable)</li>
+        <li>Menu kekinian (croffle, dessert box, dll)</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <i class="fas fa-comments"></i>
+      <h2>Customer Relationships</h2>
+      <ul>
+        <li>Member card / loyalty program</li>
+        <li>Promo & diskon khusus</li>
+        <li>Pelayanan ramah & cepat</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <i class="fas fa-users"></i>
+      <h2>Customer Segments</h2>
+      <ul>
+        <li>Pekerja Kantor</li>
+        <li>Mahasiswa</li>
+        <li>Pecinta kopi & dessert</li>
+        <li>Komunitas yang suka nongkrong</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <i class="fas fa-tools"></i>
+      <h2>Key Resources</h2>
+      <ul>
+        <li>Barista & baker terlatih</li>
+        <li>Mesin kopi & oven modern</li>
+        <li>Bahan baku berkualitas</li>
+        <li>Brand & konsep café</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <i class="fas fa-bullhorn"></i>
+      <h2>Channels</h2>
+      <ul>
+        <li>Cafe</li>
+        <li>Aplikasi delivery (GoFood, GrabFood, ShopeeFood)</li>
+        <li>Media sosial (Instagram, TikTok)</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <i class="fas fa-wallet"></i>
+      <h2>Cost Structure</h2>
+      <ul>
+        <li>Bahan baku (kopi, tepung, susu, dll)</li>
+        <li>Gaji karyawan</li>
+        <li>Sewa tempat & listrik</li>
+        <li>Biaya pemasaran & iklan</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <i class="fas fa-coins"></i>
+      <h2>Revenue Streams</h2>
+      <ul>
+        <li>Penjualan kopi & makanan di cafe</li>
+        <li>Pesanan online (delivery)</li>
+        <li>Paket bundling/menu hemat</li>
+      </ul>
+    </div>
+
+  </div>
+
+</body>
+</html>
+
+
+
